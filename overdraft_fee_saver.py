@@ -7,7 +7,7 @@ import csv
 import sys
 
 
-#Add in so that you can list which file ot be used in the command line
+#Add in so that you can list which file to be used in the command line
 filename = sys.argv[1]
 print("This is the file name you have checked:", filename)
 #This will take the last argument of the command line as the file name
