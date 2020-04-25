@@ -16,3 +16,5 @@ The following assumptions have been made:
 - If the Savings account can reduce how much the Current account has in it's overdraft, it will transfer it, even if this leaves the Current account still in the overdraft.
 - The Savings account will only transfer enough to get the Current account out of the overdraft
 - Overdraft and interest fees are not to be calculated
+-The CSV files will be internal safe files as this is a prototype
+-The CSV files will be within the same folder as the prototype program
